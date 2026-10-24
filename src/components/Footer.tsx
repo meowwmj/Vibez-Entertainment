@@ -135,7 +135,7 @@ export const Footer: React.FC<FooterProps> = ({
               </a>
 
               <a
-                href={COMPANY_INFO.messengerUrl}
+                href={COMPANY_INFO."https://m.me/kavibezph"}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 hover:text-[#35C84A] transition-colors group"
