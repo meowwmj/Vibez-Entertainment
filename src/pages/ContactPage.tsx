@@ -92,18 +92,18 @@ export const ContactPage: React.FC<ContactPageProps> = ({ onOpenInquiriesViewer 
               Chat directly with our team on our official social channel for quick questions.
             </p>
             <div className="text-sm font-semibold text-white">
-              {COMPANY_INFO.facebookMessenger}
+              {COMPANY_INFO.facebook}
             </div>
           </div>
           <div className="pt-4 border-t border-[#27272E]">
             <a
-              href={COMPANY_INFO.messengerUrl}
+              href={"https://www.facebook.com/kavibezph"}
               target="_blank"
               rel="noopener noreferrer"
               className="w-full py-2.5 rounded-lg bg-[#19191D] border border-[#27272E] hover:border-[#35C84A] text-white hover:text-[#35C84A] font-semibold text-xs tracking-wide transition-colors flex items-center justify-center gap-2"
             >
               <MessageCircle className="w-3.5 h-3.5" />
-              <span>Open Messenger</span>
+              <span>Open Facebook</span>
             </a>
           </div>
         </div>
