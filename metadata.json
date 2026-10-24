@@ -1,0 +1,8 @@
+{
+  "name": "Vibez Entertainment",
+  "description": "Discover singing, guitar, keyboard, drum, dance and acting lessons, event management, artist development, recording, and studio rental with Vibez Entertainment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
